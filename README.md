@@ -1,6 +1,6 @@
 # [SQL_Murder_Mystery_Solution](https://mystery.knightlab.com/)
 
-Hi! I am Zahid and I am a beginner in SQL.
+Hi! I am Zahid and a beginner in SQL.
 This is my attempt on solving [SQL Murder Mystery](https://mystery.knightlab.com/) ↓
 
 Q: A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a **murder** that occurred sometime on **Jan.15, 2018** and that it took place in **SQL City**. Start by retrieving the corresponding crime scene report from the police department’s database.
@@ -97,7 +97,7 @@ Output:
 |Jeremy Bowers|48Z55|0H42W2|I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.|
 
 ## 5) Checking the answers
-- We have found the murderer! Oh wait.. it seems that Jeremy Bowers is just the hitman. He said "I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.". We need to find her.
+- We found the murderer! Oh wait.. it seems that Jeremy Bowers is just the hitman. He said "I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.". We need to find her.
 
 ## 6) Clues given
 - She has a lot of money
